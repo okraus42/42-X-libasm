@@ -1,1 +1,1 @@
-Few standard functions coded in assembly
+Few standard functions coded in assembly.
